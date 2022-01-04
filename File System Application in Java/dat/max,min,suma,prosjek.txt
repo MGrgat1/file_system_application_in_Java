@@ -1,0 +1,4 @@
+Najdulji naziv je KONJUNKTIVITIS
+Najkraći naziv je LJEŠNJAK
+Suma je 51
+Prosjek je 10.2
